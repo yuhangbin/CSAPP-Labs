@@ -1,5 +1,7 @@
 # csapp-labs
 
+## C Programming lab
+
 ## Data lab
 
 
@@ -15,5 +17,5 @@
 
 
 
-参考资料：
-https://github.com/Exely/CSAPP-Labs
+lab来源：
+https://github.com/Sorosliu1029/CSAPP-Labs.git
