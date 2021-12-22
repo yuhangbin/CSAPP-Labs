@@ -1,6 +1,7 @@
 # csapp-labs
 
 ## C Programming lab
+doing
 
 ## Data lab
 
@@ -11,11 +12,10 @@
 
 ## Architecture Lab
 
-## Performane Lab
+## Performance Lab
 
 ## Cache Lab
 
 
 
-lab来源：
-https://github.com/Sorosliu1029/CSAPP-Labs.git
+http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/schedule.html
