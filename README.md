@@ -1,10 +1,10 @@
 # csapp-labs
 
 ## C Programming lab
-doing
+Done.
 
 ## Data lab
-
+Doing~
 
 ## Bomb Lab
 
